@@ -1,9 +1,9 @@
 .venv/
 __pycache__/
-*.pyc
 .pytest_cache/
 .coverage
 htmlcov/
-.locust/
-reporte_locust.html
+*.pyc
+.env
 .idea/
+recargaya/
