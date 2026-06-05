@@ -6,3 +6,4 @@ __pycache__/
 htmlcov/
 .locust/
 reporte_locust.html
+.idea/
